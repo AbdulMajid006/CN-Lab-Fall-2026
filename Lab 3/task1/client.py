@@ -1,3 +1,9 @@
+# Task#1:
+# Create a client-server program where the client sends two numbers and an operation (+,
+# −, ×, ÷) and the server saves the details in a JSON or Text file, giving the answers back
+# to the client.
+
+
 import socket
 import json
 
